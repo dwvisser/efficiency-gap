@@ -1,0 +1,236 @@
+,state_abbr,candidate_name,party,votes_total
+1,AL,Donald Trump,GOP,1306925.0
+2,AL,Hillary Clinton,DEM,718084.0
+3,AL,Gary Johnson,LIB,43869.0
+4,AL,Jill Stein,GRN,9287.0
+5,AK,Donald Trump,GOP,130415.0
+6,AK,Hillary Clinton,DEM,93007.0
+7,AK,Gary Johnson,LIB,14593.0
+8,AK,Jill Stein,GRN,4445.0
+9,AK,Other,OTH,4128.0
+10,AZ,Donald Trump,GOP,1021154.0
+11,AZ,Hillary Clinton,DEM,936250.0
+12,AZ,Gary Johnson,LIB,80151.0
+13,AZ,Jill Stein,GRN,25255.0
+14,AR,Donald Trump,GOP,677904.0
+15,AR,Hillary Clinton,DEM,378729.0
+16,AR,Gary Johnson,LIB,29518.0
+17,AR,Other,OTH,12627.0
+18,AR,Jill Stein,GRN,9837.0
+19,CA,Hillary Clinton,DEM,7362490.0
+20,CA,Donald Trump,GOP,3916209.0
+21,CA,Gary Johnson,LIB,402406.0
+22,CA,Jill Stein,GRN,220312.0
+23,CA,Other,OTH,52900.0
+24,CO,Hillary Clinton,DEM,1212209.0
+25,CO,Donald Trump,GOP,1137455.0
+26,CO,Gary Johnson,LIB,129451.0
+27,CO,Jill Stein,GRN,33147.0
+28,CO,Evan McMullin,UNA,26779.0
+29,CO,Other,OTH,25144.0
+30,CT,Hillary Clinton,DEM,884432.0
+31,CT,Donald Trump,GOP,668266.0
+32,CT,Gary Johnson,LIB,48051.0
+33,CT,Jill Stein,GRN,22793.0
+34,DC,Hillary Clinton,DEM,260223.0
+35,DC,Donald Trump,GOP,11553.0
+36,DC,Gary Johnson,LIB,4501.0
+37,DC,Jill Stein,GRN,3995.0
+38,DE,Hillary Clinton,DEM,235581.0
+39,DE,Donald Trump,GOP,185103.0
+40,DE,Gary Johnson,LIB,14751.0
+41,DE,Jill Stein,GRN,6100.0
+42,FL,Donald Trump,GOP,4605515.0
+43,FL,Hillary Clinton,DEM,4485745.0
+44,FL,Gary Johnson,LIB,206007.0
+45,FL,Jill Stein,GRN,64019.0
+46,FL,Other,OTH,25464.0
+47,GA,Donald Trump,GOP,2068623.0
+48,GA,Hillary Clinton,DEM,1837300.0
+49,GA,Gary Johnson,LIB,123641.0
+50,HI,Hillary Clinton,DEM,266827.0
+51,HI,Donald Trump,GOP,128815.0
+52,HI,Gary Johnson,LIB,15949.0
+53,HI,Jill Stein,GRN,12727.0
+54,HI,Other,OTH,4507.0
+55,ID,Donald Trump,GOP,407199.0
+56,ID,Hillary Clinton,DEM,189677.0
+57,ID,Evan McMullin,IND,46538.0
+58,ID,Gary Johnson,LIB,28256.0
+59,ID,Jill Stein,GRN,8464.0
+60,ID,Other,OTH,8101.0
+61,IL,Hillary Clinton,DEM,2977498.0
+62,IL,Donald Trump,GOP,2118179.0
+63,IL,Gary Johnson,LIB,204491.0
+64,IL,Jill Stein,GRN,74112.0
+65,IN,Donald Trump,GOP,1556220.0
+66,IN,Hillary Clinton,DEM,1031953.0
+67,IN,Gary Johnson,LIB,133856.0
+68,IA,Donald Trump,GOP,798923.0
+69,IA,Hillary Clinton,DEM,650790.0
+70,IA,Gary Johnson,LIB,57322.0
+71,IA,Other,OTH,12459.0
+72,IA,Evan McMullin,PEC,12267.0
+73,IA,Jill Stein,GRN,11119.0
+74,KS,Donald Trump,GOP,656009.0
+75,KS,Hillary Clinton,DEM,414788.0
+76,KS,Gary Johnson,LIB,53648.0
+77,KS,Jill Stein,GRN,22698.0
+78,KY,Donald Trump,GOP,1202942.0
+79,KY,Hillary Clinton,DEM,628834.0
+80,KY,Gary Johnson,LIB,53749.0
+81,KY,Evan McMullin,IND,22780.0
+82,KY,Jill Stein,GRN,13913.0
+83,LA,Donald Trump,GOP,1178004.0
+84,LA,Hillary Clinton,DEM,779535.0
+85,LA,Gary Johnson,LIB,37950.0
+86,LA,Jill Stein,GRN,14018.0
+87,LA,Other,OTH,9678.0
+88,LA,Evan McMullin,OTH,8546.0
+89,ME,Hillary Clinton,DEM,354873.0
+90,ME,Donald Trump,GOP,334838.0
+91,ME,Gary Johnson,LIB,37764.0
+92,ME,Jill Stein,GRN,14075.0
+93,MD,Hillary Clinton,DEM,1497951.0
+94,MD,Donald Trump,GOP,873646.0
+95,MD,Gary Johnson,LIB,71107.0
+96,MD,Jill Stein,GRN,31839.0
+97,MA,Hillary Clinton,DEM,1964768.0
+98,MA,Donald Trump,GOP,1083069.0
+99,MA,Gary Johnson,LIB,136784.0
+100,MA,Jill Stein,GRN,46910.0
+101,MI,Donald Trump,GOP,2279805.0
+102,MI,Hillary Clinton,DEM,2268193.0
+103,MI,Gary Johnson,LIB,173057.0
+104,MI,Jill Stein,GRN,50700.0
+105,MI,Other,OTH,19162.0
+106,MN,Hillary Clinton,DEM,1366676.0
+107,MN,Donald Trump,GOP,1322891.0
+108,MN,Gary Johnson,LIB,112944.0
+109,MN,Evan McMullin,INP,53080.0
+110,MN,Jill Stein,GRN,36957.0
+111,MN,Other,OTH,23856.0
+112,MS,Donald Trump,GOP,678457.0
+113,MS,Hillary Clinton,DEM,462001.0
+114,MS,Gary Johnson,LIB,13789.0
+115,MS,Other,OTH,5160.0
+116,MS,Jill Stein,GRN,3580.0
+117,MO,Donald Trump,GOP,1585753.0
+118,MO,Hillary Clinton,DEM,1054889.0
+119,MO,Gary Johnson,LIB,96404.0
+120,MO,Jill Stein,GRN,25086.0
+121,MO,Other,OTH,12966.0
+122,MT,Donald Trump,GOP,274120.0
+123,MT,Hillary Clinton,DEM,174521.0
+124,MT,Gary Johnson,LIB,27264.0
+125,MT,Jill Stein,GRN,7669.0
+126,NE,Donald Trump,GOP,485819.0
+127,NE,Hillary Clinton,DEM,273858.0
+128,NE,Gary Johnson,LIB,37615.0
+129,NE,Jill Stein,GRN,8346.0
+130,NV,Hillary Clinton,DEM,537753.0
+131,NV,Donald Trump,GOP,511319.0
+132,NV,Gary Johnson,LIB,37299.0
+133,NV,Other,OTH,36619.0
+134,NH,Hillary Clinton,DEM,348521.0
+135,NH,Donald Trump,GOP,345789.0
+136,NH,Gary Johnson,LIB,30827.0
+137,NH,Jill Stein,GRN,6416.0
+138,NJ,Hillary Clinton,DEM,2021756.0
+139,NJ,Donald Trump,GOP,1535513.0
+140,NJ,Gary Johnson,LIB,68695.0
+141,NJ,Jill Stein,GRN,35949.0
+142,NJ,Other,OTH,12980.0
+143,NM,Hillary Clinton,DEM,380724.0
+144,NM,Donald Trump,GOP,315875.0
+145,NM,Gary Johnson,LIB,73669.0
+146,NM,Jill Stein,GRN,9729.0
+147,NM,Other,OTH,3130.0
+148,NY,Hillary Clinton,DEM,4143874.0
+149,NY,Donald Trump,GOP,2640570.0
+150,NY,Gary Johnson,LIB,161836.0
+151,NY,Jill Stein,GRN,99895.0
+152,NC,Donald Trump,GOP,2339603.0
+153,NC,Hillary Clinton,DEM,2162074.0
+154,NC,Gary Johnson,LIB,127794.0
+155,ND,Donald Trump,GOP,216133.0
+156,ND,Hillary Clinton,DEM,93526.0
+157,ND,Gary Johnson,LIB,21351.0
+158,ND,Jill Stein,GRN,3769.0
+159,ND,Other,OTH,2189.0
+160,OH,Donald Trump,GOP,2771984.0
+161,OH,Hillary Clinton,DEM,2317001.0
+162,OH,Gary Johnson,LIB,168599.0
+163,OH,Jill Stein,GRN,44310.0
+164,OH,Other,OTH,23501.0
+165,OK,Donald Trump,GOP,947934.0
+166,OK,Hillary Clinton,DEM,419788.0
+167,OK,Gary Johnson,LIB,83334.0
+168,OR,Hillary Clinton,DEM,934631.0
+169,OR,Donald Trump,GOP,742506.0
+170,OR,Gary Johnson,LIB,86306.0
+171,OR,Jill Stein,GRN,45132.0
+172,PA,Donald Trump,GOP,2912941.0
+173,PA,Hillary Clinton,DEM,2844705.0
+174,PA,Gary Johnson,LIB,142653.0
+175,PA,Jill Stein,GRN,48912.0
+176,PA,Other,OTH,20896.0
+177,RI,Hillary Clinton,DEM,249902.0
+178,RI,Donald Trump,GOP,179421.0
+179,RI,Gary Johnson,LIB,14643.0
+180,RI,Jill Stein,GRN,6155.0
+181,SC,Donald Trump,GOP,1143611.0
+182,SC,Hillary Clinton,DEM,849469.0
+183,SC,Gary Johnson,LIB,48715.0
+184,SC,Evan McMullin,INP,20795.0
+185,SC,Jill Stein,GRN,12917.0
+186,SC,Other,OTH,8937.0
+187,SD,Donald Trump,GOP,227701.0
+188,SD,Hillary Clinton,DEM,117442.0
+189,SD,Gary Johnson,LIB,20845.0
+190,SD,Other,OTH,4059.0
+191,TN,Donald Trump,GOP,1517402.0
+192,TN,Hillary Clinton,DEM,867110.0
+193,TN,Gary Johnson,LIB,70084.0
+194,TN,Jill Stein,GRN,15919.0
+195,TN,Other,OTH,14176.0
+196,TX,Donald Trump,GOP,4681590.0
+197,TX,Hillary Clinton,DEM,3867816.0
+198,TX,Gary Johnson,LIB,282524.0
+199,TX,Jill Stein,GRN,71307.0
+200,UT,Donald Trump,GOP,452086.0
+201,UT,Hillary Clinton,DEM,274188.0
+202,UT,Evan McMullin,UNA,207288.0
+203,UT,Gary Johnson,LIB,33142.0
+204,UT,Other,OTH,10558.0
+205,UT,Jill Stein,GRN,7695.0
+206,VT,Hillary Clinton,DEM,178179.0
+207,VT,Donald Trump,GOP,95053.0
+208,VT,Gary Johnson,LIB,10047.0
+209,VT,Jill Stein,GRN,6748.0
+210,VT,Other,OTH,1386.0
+211,VA,Hillary Clinton,DEM,1916845.0
+212,VA,Donald Trump,GOP,1731156.0
+213,VA,Gary Johnson,LIB,116600.0
+214,VA,Evan McMullin,IND,52914.0
+215,VA,Jill Stein,GRN,27272.0
+216,WA,Hillary Clinton,DEM,1610524.0
+217,WA,Donald Trump,GOP,1129120.0
+218,WA,Gary Johnson,LIB,144599.0
+219,WA,Jill Stein,GRN,51066.0
+220,WA,Other,OTH,22633.0
+221,WV,Donald Trump,GOP,486198.0
+222,WV,Hillary Clinton,DEM,187457.0
+223,WV,Gary Johnson,LIB,22798.0
+224,WV,Jill Stein,GRN,8000.0
+225,WV,Other,OTH,3773.0
+226,WI,Donald Trump,GOP,1409467.0
+227,WI,Hillary Clinton,DEM,1382210.0
+228,WI,Gary Johnson,LIB,106442.0
+229,WI,Jill Stein,GRN,30980.0
+230,WI,Other,OTH,15521.0
+231,WY,Donald Trump,GOP,174248.0
+232,WY,Hillary Clinton,DEM,55949.0
+233,WY,Gary Johnson,LIB,13285.0
+234,WY,Other,OTH,2748.0
+235,WY,Jill Stein,GRN,2512.0
